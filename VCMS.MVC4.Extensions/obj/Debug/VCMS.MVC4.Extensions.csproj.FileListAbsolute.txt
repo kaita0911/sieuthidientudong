@@ -1,0 +1,302 @@
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\PHONG\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\KIM SƯ LÊ\VCMS\SourceUpdate\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+F:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+F:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+F:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+F:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2017 -LAMDA - Copy\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojResolveAssemblyReference.cache
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.Razor.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Razor.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Razor.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Razor.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+E:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+E:\New folder\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+E:\New folder\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+C:\VNS\VCMS\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+C:\VNS\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+C:\VNS\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+C:\VNS\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+C:\VNS\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+C:\VNS\VCMS\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+E:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+E:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+E:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+E:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+E:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+E:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\VCMS.MVC4.Extensions.pdb
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\WebGrease.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Antlr3.Runtime.pdb
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Mvc.xml
+D:\sieuthidientudong\VCMS.MVC4.Extensions\bin\Debug\System.Web.Optimization.xml
+D:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csprojAssemblyReference.cache
+D:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CoreCompileInputs.cache
+D:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.csproj.CopyComplete
+D:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.dll
+D:\sieuthidientudong\VCMS.MVC4.Extensions\obj\Debug\VCMS.MVC4.Extensions.pdb

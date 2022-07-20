@@ -1,0 +1,5 @@
+@model VCMS.MVC4.Data.Article
+
+@{
+
+}

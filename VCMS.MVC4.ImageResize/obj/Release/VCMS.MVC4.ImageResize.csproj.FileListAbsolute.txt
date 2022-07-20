@@ -1,0 +1,7 @@
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\bin\Release\VCMS.MVC4.ImageResize.dll
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\bin\Release\VCMS.MVC4.ImageResize.pdb
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\bin\Release\System.Web.Mvc.dll
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\bin\Release\System.Web.Mvc.xml
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\obj\Release\VCMS.MVC4.ImageResize.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\obj\Release\VCMS.MVC4.ImageResize.dll
+G:\MyWebsite\VCMS_OLD_1\VCMS.MVC4_Old.Web\VCMS.MVC4.ImageResize\obj\Release\VCMS.MVC4.ImageResize.pdb

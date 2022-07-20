@@ -1,0 +1,89 @@
+﻿@using System.Data.Entity;
+@{
+    var articles_address = Article.GetByTypeCode("COMPANY", SiteConfig.LanguageId, ArticleFlags.ACTIVE, 1, 1, ArticleSortOrder.SORT_ORDER, VCMS.MVC4.Data.SortDirection.ASCENDING, ArticleIncludeFlags.ARTICLE_TYPE | ArticleIncludeFlags.PROPERTIES);
+    var article_consulting = Article.GetByTypeCode("CONSULTING", SiteConfig.LanguageId, ArticleFlags.ACTIVE, 1, 5, ArticleSortOrder.SORT_ORDER, VCMS.MVC4.Data.SortDirection.ASCENDING, ArticleIncludeFlags.ARTICLE_TYPE).List;
+}
+<div class="col-md-4 col-xs-12 col-sm-12">
+    <div class="box-footer box-footer-address">
+        @foreach (var item in articles_address.List)
+        {
+            var address = item["ADDRESS", SiteConfig.LanguageId];
+            var email = item["EMAIL"];
+            var phone = item["PHONE"];
+            var map = item["MAP"];
+            var mst = item["TAXCODE"];
+            <h2 class="heading">
+                Thông tin liên hệ
+            </h2>
+            <div class="content">
+                @if (!string.IsNullOrEmpty(address))
+                {
+                    <div class="item">
+                        <i class="fa fa-map-marker"></i>
+                        <span class="add">Địa chỉ </span>
+                        <span class="ctn">@address</span>
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(phone))
+                {
+                    <div class="item">
+                        <i class="fa fa-phone"></i>
+                        <span class="lbl">Tổng đài</span>
+                        <span class="ctn">@Html.Phone(phone)</span>
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(email))
+                {
+                    <div class="item">
+                        <i class="fa fa-envelope-o"></i>
+                        <span class="lbl">Email</span>
+                        <span class="ctn">@Html.Email(email)</span>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>
+<div class="col-md-2 col-xs-12 col-sm-12">
+    @if (article_consulting.Count > 0)
+    {
+    <div class="box-footer box-footer-consulting">
+        <h2 class="heading">Thông tin hữu ích</h2>
+        <div class="content eded">
+            <p class="item hidden-md">
+                <a href="https://sieuthidientudong.com/gioi-thieu.html"><i class="fa fa-angle-right"></i> Giới thiệu</a>
+            </p>
+            @foreach (var item in article_consulting)
+            {
+                <p class="item">
+                    <a href="@Url.Action("Detail", "Article", new { id=item.Id, code=item.ArticleType.UrlFriendly,title = item.UrlFriendly.ToLower()})">
+                        <i class="fa fa-angle-right"></i>  @item.ArticleName
+                    </a>
+                </p>
+            }
+
+            <p class="item hidden-md">
+                <a href="https://sieuthidientudong.com/tin-tuc-chuyen-nganh.html"><i class="fa fa-angle-right"></i> Tin tức chuyên ngành</a>
+            </p>
+            <p class="item hidden-md">
+                <a href="https://sieuthidientudong.com/cham-soc-khach-hang.html"><i class="fa fa-angle-right"></i> Chăm sóc khách hàng</a>
+            </p>
+            <p class="item hidden-md">
+                <a href="https://sieuthidientudong.com/cau-chuyen-cuoc-song.html"><i class="fa fa-angle-right"></i> Câu chuyện cuộc sống</a>
+            </p>
+
+        </div>
+    </div>
+    }
+</div>
+    <div class="col-md-3 col-xs-12 col-sm-12">
+        @Html.Partial("_FNewsletter")
+        @Html.Partial("_AddLinkDetail")
+    </div>
+    <div class="col-md-3 col-xs-12 col-sm-12">
+        @if (!Request.UserAgent.Contains("Lighthouse"))
+        {
+            @Html.Partial("_FFancePage")
+        }
+
+    </div>

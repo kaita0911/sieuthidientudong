@@ -1,0 +1,68 @@
+﻿@model ArticleResult
+@{
+    /**/
+
+    if (Model.List.Count > 0)
+    {
+        var type = ViewBag.Type != null ? ViewBag.Type as ArticleType : ArticleType.GetById(Model.List.FirstOrDefault().ArticleType.Id, SiteConfig.LanguageId);
+        <h1 class="title">@(ViewBag.Title != null ? ViewBag.Title : type.Name)</h1>
+        <div class="box-product-slider box-product-list">
+            @foreach (var item in Model.List)
+            {
+                var code = item["CODE"];
+                <div class="pr-list col-md-3 col-sm-6 col-xs-6">
+                    <div class="items">
+
+                        <figure>
+                            <a href="@Url.Action("Detail", "Article", new { id = item.Id, code = type.UrlFriendly, title = item.UrlFriendly.ToLower() })" title="@item.ArticleName" data-tooltip="sticky-@item.Id">
+                                @Html.Image(item.ImageUrl != null ? item.ImageUrl.ToLower() : item.ImageUrl, new ImageOptions { Width = 160, Height = 160, Watermark = SiteConfig.Watermark, Mode = ImageMode.pad, Lazy = false }, new { alt = code != "" ? code : item.ArticleName })
+                            </a>
+                            <figcaption>
+                                <p>
+
+                                    <a class="quickview" href="@Url.Action("Detail", "Article", new { id = item.Id, code = type.UrlFriendly, title = item.UrlFriendly.ToLower() })" title="Xem chi tiết">
+                                        <i class="fa fa-search-plus"></i>
+                                    </a>
+
+                                    <a href="@Url.Action("addtocart", "shoppingcart", new { id = item.Id })" class="addcart cart" title="Cho vào giỏ hàng" rel="nofollow">
+                                        <i class="fa fa-shopping-cart"></i>
+                                    </a>
+                                </p>
+                            </figcaption>
+                        </figure>
+
+                        <div class="meta">
+                            <h3>
+                                <a href="@Url.Action("Detail", "Article", new { id = item.Id, code = type.UrlFriendly, title = item.UrlFriendly.ToLower() })" title="@item.ArticleName">@item.ArticleName</a>
+                            </h3>
+                            <p>Mã số: <span>@code</span></p>
+
+                           
+                                <div class="price-all">
+                                    @if (item.DiscountPrice > 0)
+                                    {
+                                        <span class="price-old">@Html.Price(item.ItemPrice)</span>
+                                        <span class="price">@Html.DiscountPrice(item.ItemPrice)</span>
+
+                                    }
+                                    else
+                                    {
+                                        <a href="@Url.Action("Contact", "Home", new { id = item.Id })">
+                                            <span class="price">@Html.Price(item.ItemPrice)</span>
+                                        </a>
+                                    }
+                                </div>
+                            
+
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        @Html.Pager(new PagerOptions { VisibleItemCount = 5, ItemCount = Model.TotalItemCount, PageSize = Model.PageSize, FirstText = Html.Locale("text_first").ToHtmlString(), LastText = Html.Locale("text_last").ToHtmlString() }, null)
+    }
+    else
+    {
+        <strong>@Html.Locale("article_null")</strong>
+    }
+}

@@ -1,0 +1,11 @@
+F:\New folder\VCMS\VCMS.MVC4.Web\Templates\lamda\Content\Images\revolution_slider\1x1.jpg|304
+F:\New folder\VCMS\VCMS.MVC4.Web\Templates\lamda\Content\Images\revolution_slider\bullet.png|654
+F:\New folder\VCMS\VCMS.MVC4.Web\Templates\lamda\Content\Images\btn-top.png|653
+F:\New folder\VCMS\VCMS.MVC4.Web\Templates\lamda\Content\Images\news-left.png|212
+F:\New folder\VCMS\VCMS.MVC4.Web\Templates\lamda\Content\Images\news-right.png|210
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\congnghetudong\Content\Images\logo.png|2589
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\thietkespadep\Content\Images\bg-project.jpg|2820251
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\thietkespadep\Content\Images\bg-section.jpg|2795056
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\xnkhaiquan\Content\Images\bg-partner.jpg|469
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\xnkhaiquan\Content\Images\bg-sercive.jpg|87931
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Web\Templates\indehogreen\Content\Images\hotline.png|413

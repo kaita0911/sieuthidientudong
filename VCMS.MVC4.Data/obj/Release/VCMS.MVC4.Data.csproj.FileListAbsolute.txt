@@ -1,0 +1,159 @@
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+F:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+F:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+F:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+F:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+F:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+F:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+F:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+F:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojResolveAssemblyReference.cache
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Deployment.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Deployment.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.Razor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Razor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\System.Web.WebPages.Deployment.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+E:\New folder\VCMS\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+E:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+E:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+E:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+C:\VNS\VCMS\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+C:\VNS\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+C:\VNS\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+C:\VNS\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+C:\VNS\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+C:\VNS\VCMS\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+E:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+E:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+E:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+E:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+E:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+E:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll.config
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.dll
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\VCMS.MVC4.Data.pdb
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\EntityFramework.dll
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.dll
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\EntityFramework.xml
+D:\sieuthidientudong\VCMS.MVC4.Data\bin\Release\System.Web.Mvc.xml
+D:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csprojAssemblyReference.cache
+D:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CoreCompileInputs.cache
+D:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.csproj.CopyComplete
+D:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.dll
+D:\sieuthidientudong\VCMS.MVC4.Data\obj\Release\VCMS.MVC4.Data.pdb

@@ -1,0 +1,47 @@
+﻿@model Widget
+@{
+    var article = Article.GetByType((int)Model.ArticleTypeId, SiteConfig.LanguageId, Model.Attribute, 1, Model.Number, Model.SortOrder, Model.SortDirection);
+}
+@if (article.List.Count > 0)
+{
+    <div class="home-news-grid box-home-2">
+        <h2 class="heading-title">
+            <span>@Model.Title</span>
+        </h2>
+        <div class="content">
+            <div class="row">
+                <div class="owl-carousel is-active" data-plugin-options='{"items": 2, "singleItem": false, "autoPlay": true, "navigation": true, "pagination": false,"slideSpeed":1200,"addClassActive":true,"itemsDesktop": [1199, 2],"itemsDesktopSmall": [991, 2],"itemsTablet": [768, 2],"itemsMobile": [479, 2]}'>
+
+                    @foreach (var item in article.List)
+                    {
+                  
+                        <div class="items" style="padding:0 5px">
+
+                            @if (!Model.HiddenImage)
+                            {
+                            <figure>
+                                <a href="@Url.Action("Detail", "Article" , new { id=item.Id, code=item.ArticleType.UrlFriendly, title=item.UrlFriendly.ToLower() })" title="@item.ArticleName" class="banner-cubic-7">
+                                    @Html.Image(item.ImageUrl, new ImageOptions { Width = 270, Height = 170, Watermark = SiteConfig.WatermarkFill, Mode = ImageMode.crop }, new { alt = item.ArticleName })
+                                </a>
+                            </figure>
+                            }
+                            <div class="meta">
+                                <h3>
+                                    <a href="@Url.Action("Detail", "Article" , new { id=item.Id, code=item.ArticleType.UrlFriendly, title=item.UrlFriendly.ToLower() })" title="@item.ArticleName">
+                                        @item.ArticleName
+                                    </a>
+                                </h3>
+                                <span class="date"><i class="fa fa-calendar"></i> @item.Day/@item.Daymore</span>
+                                <div class="description">
+                                    @Html.Raw(VNS.Web.Helpers.HTMLHelper.ReadBlock(item.ShortDescription, 15))
+                                </div>
+                            </div>
+                        </div>
+                   
+                    }
+                    </div>
+                </div>
+            </div>
+    </div>
+}
+

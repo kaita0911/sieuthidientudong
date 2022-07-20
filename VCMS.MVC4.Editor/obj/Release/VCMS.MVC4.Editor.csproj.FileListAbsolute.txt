@@ -1,0 +1,346 @@
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+D:\PHONG\VCMS\Source\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\System.Web.Mvc.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+G:\MyWebsite\VCMS\Website\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+G:\MyWebsite\VCMS\VCMS.MVC4.Web\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+D:\PHAT\Work\VCMS 8-2016 - Copy\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+D:\PHAT\Work\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\New folder\VCMS 10-2016\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+F:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+F:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+F:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+F:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\ProjectVienNam\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+F:\Work\Libary\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojResolveAssemblyReference.cache
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+F:\Work\VNS\Source\VCMS 2017\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Mvc.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Helpers.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Http.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Razor.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Helpers.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Razor.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+E:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Newtonsoft.Json.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Razor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Helpers.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Http.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Mvc.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Net.Http.Formatting.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Razor.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+D:\MyWebsite\CodeKha\Project-KHA\VCMS 2018\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.xml
+E:\New folder\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+E:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+E:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+E:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+E:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\New folder\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+C:\VNS\VCMS\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+C:\VNS\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+C:\VNS\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+C:\VNS\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+C:\VNS\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+C:\VNS\VCMS\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+E:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+E:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+E:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+E:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+E:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+E:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Editor.pdb
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\EntityFramework.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Razor.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.pdb
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Data.dll.config
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\VCMS.MVC4.Extensions.pdb
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\EntityFramework.xml
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.Optimization.xml
+D:\sieuthidientudong\VCMS.MVC4.Editor\bin\Release\System.Web.WebPages.Deployment.xml
+D:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csprojAssemblyReference.cache
+D:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CoreCompileInputs.cache
+D:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.csproj.CopyComplete
+D:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.dll
+D:\sieuthidientudong\VCMS.MVC4.Editor\obj\Release\VCMS.MVC4.Editor.pdb

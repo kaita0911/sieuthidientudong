@@ -1,0 +1,43 @@
+﻿@model ArticleResult
+@{
+    if (Model.List.Count > 0)
+    {
+        var type = ViewBag.Type != null ? ViewBag.Type as ArticleType : ArticleType.GetById(Model.List.FirstOrDefault().ArticleType.Id, SiteConfig.LanguageId);
+        <h1 class="title">@(ViewBag.Title != null ? ViewBag.Title : type.Name)</h1>
+        <ul class="box-recruitment row">
+            @foreach (var item in Model.List)
+            {
+                <li class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="meta">
+                        @if (type.ShowImageInList)
+                        {
+                            <figure>
+                                <a class="banner-cubic-7" href="@Url.Action("Detail", "Article", new { id = item.Id, code = item.ArticleType.UrlFriendly, title = item.UrlFriendly })" title="@item.ArticleName">
+                                    @Html.Image(item.ImageUrl.ToLower(), new ImageOptions { Width = 170, Height = 170, Mode = ImageMode.crop }, new { alt = item.ArticleName })
+                                </a>
+                            </figure>
+                        }
+                        <h3>
+                            <a href="@Url.Action("Detail", "Article", new { id = item.Id, code = item.ArticleType.ArticleTypeDetail[SiteConfig.LanguageId].UrlFriendly, title = Unichar.UnicodeStrings.UrlString(item.ArticleName) })" title="@item.ArticleName">@item.ArticleName</a>
+                        </h3>
+                        @if (type.ShowDateTime)
+                        {
+                            <span class="date">
+
+                                @item.Day
+                            </span>
+                        }
+
+
+                    </div>
+
+                </li>
+            }
+        </ul>
+        @Html.Pager(new PagerOptions { VisibleItemCount = 5, ItemCount = Model.TotalItemCount, PageSize = Model.PageSize }, null)
+    }
+    else
+    {
+        <strong>@Html.Locale("article_null")</strong>
+    }
+}

@@ -1,0 +1,58 @@
+﻿
+<link rel="stylesheet" type="text/css" href="~/Templates/@SiteConfig.SiteCode/content/carouselengine/initcarousel-adv.css">
+<script src="~/Templates/@SiteConfig.SiteCode/content/carouselengine/initcarousel-adv.js"></script>
+@using (DataContext db = new DataContext())
+{
+    var articleType = db.ArticleTypes.FirstOrDefault(a => a.Code == "ADV");
+    if (articleType != null)
+    {
+        var lst = Article.GetByType(articleType.Id, SiteConfig.SiteId, SiteConfig.LanguageId, ArticleFlags.ACTIVE, 1, 10, ArticleSortOrder.SORT_ORDER, VCMS.MVC4.Data.SortDirection.DESCENDING).List.OrderBy(a => Guid.NewGuid());
+        <div class="f-adv">
+            <h3 class="header">
+                Quảng cáo
+            </h3>
+            <div class="content">
+                <div id="amazingcarousel-container-adv">
+                    <div id="amazingcarousel-adv" style="display:block;position:relative;width:100%;max-width:270px;margin:0px auto 0px;">
+                        <div class="amazingcarousel-list-container">
+                            <ul class="amazingcarousel-list">
+                                @foreach (var adv in lst)
+                                {
+                                    var link = adv.PropertyValues.FirstOrDefault(a => a.Property.Code.Equals("URL", StringComparison.OrdinalIgnoreCase));
+                                    <li class="amazingcarousel-item">
+                                        <div class="amazingcarousel-item-container">
+                                            <a href="@link.Value" target="_blank" title="@adv.ArticleName">
+                                                <img src="@Url.Content("~/UserUpload/Article/")@adv.ImageUrl?width=300" alt="@adv.ArticleName" />
+                                            </a>
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+                            <div class="amazingcarousel-prev"></div>
+                            <div class="amazingcarousel-next"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var next = $('.amazingcarousel-next');
+        var prev = $('.amazingcarousel-prev')
+       
+
+        $('#amazingcarousel-adv').hover(
+              function () {
+                  next.show();
+                  prev.show();
+              });
+        $('#amazingcarousel-adv').mouseleave(
+            function () {
+                next.hide();
+                prev.hide();
+            });
+    });
+</script>

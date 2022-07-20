@@ -1,0 +1,24 @@
+﻿@using System.Data.Entity;
+@using (DataContext db = new DataContext())
+{
+    var list = Category.GetTree(Category.GetByType(2, SiteConfig.SiteId, SiteConfig.LanguageId)).Where(a => a.Level == 0).ToList();
+    if (list.Count > 0)
+    {
+        <div class="box-footer f-category">
+            <h2 class="heading">Sản phẩm tiêu biểu</h2>
+            <div class="content">
+                <div class="row">
+                    @foreach (var sitem in list)
+                    {
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a class="left" href="@Url.Action("Detail", "Category", new {id=sitem.Id,code=sitem.ArticleType.UrlFriendly,title=Unichar.UnicodeStrings.UrlString(sitem.CategoryName) })">
+                                @sitem.CategoryName
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+}
+

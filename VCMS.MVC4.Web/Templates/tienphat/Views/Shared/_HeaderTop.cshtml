@@ -1,0 +1,52 @@
+﻿<div class="header-top hidden-sm hidden-xs">
+    <div class="container">
+        <div class="content">
+            <div class="logo pull-left">
+                <a href="@Url.Action("index","home")">
+                    @Html.Image(SiteConfig.Image("logo.png"), new ImageOptions { Width = 192, Height = 61, Lazy = false }, new { alt = SiteConfig.SiteInfo.Title })
+                </a>
+            </div>
+            <div class="search pull-left">
+                @Html.Partial("_Search")
+            </div>
+
+            <div class="header-right pull-right">
+                <div class="hotline ">
+                    <i class="fa fa-mobile-phone"></i>
+                    <p>@Html.Phone(SiteConfig.SiteInfo.Hotline)<span>Hỗ trợ 24/7. Gọi ngay</span></p>
+                </div>
+                <div id="shop-cart" class="carts">
+                    <a href="/shoppingcart/">
+                        <div class="icon-cart">
+                            <i class="fa fa-shopping-cart"></i>
+                            <p>
+                                <span class="lbl">Giỏ hàng</span>
+                                <span id="number" style="font-weight:bold">(@SiteConfig.ShoppingCart.Items.Sum(a => a.Quantity))</span>
+                            </p>
+                            <p>Vận chuyển toàn quốc</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="search-order pull-right">
+                    <a href="/shoppingcart/myorder">
+                        Tra cứu <br />
+                        đơn hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@*<script>
+        $(document).ready(function () {
+            $(function () {
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 150) {
+                        $('#navigation').addClass("fix");
+                    } else {
+                        $('#navigation').removeClass("fix");
+                    }
+                });
+            });
+        });
+    </script>*@
